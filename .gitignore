@@ -1,0 +1,16 @@
+*.html
+/*_files
+*/results_*/
+*/openephys_recording/
+/.quarto/
+*/preprocessed/
+*/waveforms/
+*/sorting_curated/
+/data
+# pixi environments
+.pixi
+*.egg-info
+*/.jupyter_cache
+*.zip
+*.vdoc.*
+*.parquet
