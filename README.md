@@ -16,3 +16,10 @@ The notebooks require the user to download various data sets. These are hosted o
 2. Relating Neural Firing to Stimuli
 3. Curve Fitting and Model Evaluation
 4. Estimating and Modeling Receptive Fields
+
+
+
+
+#  Resources
+
+https://www.youtube.com/watch?v=33EaeRjpNnY&t=1496s
